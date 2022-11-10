@@ -1,0 +1,16 @@
+Modelo\Clinica.class
+Modelo\Pago.class
+Modelo\Receta.class
+Modelo\Administrador.class
+Modelo\PlanNutricional.class
+Modelo\Cita.class
+Modelo\PagoEfectivo.class
+Modelo\HistoriaClinica.class
+Modelo\PagoTarjeta.class
+Modelo\Secretaria.class
+Modelo\PagoPaypal.class
+Modelo\Paciente.class
+Modelo\Doctor.class
+Modelo\Medicamento.class
+Modelo\AreaMedica.class
+Modelo\Persona.class
